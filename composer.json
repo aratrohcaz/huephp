@@ -1,27 +1,15 @@
 {
-    "name": "muesli/huephp",
-    "description": "PHP library to control the Phillips Hue lighting system",
-    "minimum-stability": "stable",
+    "name": "aratrohcaz/huephp",
+    "description": "PHP Framework for controlling the Phillips Hue lighting System",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Christian Muehlhaeuser",
-            "email": "muesli@gmail.com"
+            "name": "aratrohcaz",
+            "email": "thataddress@protonmail.com"
         }
     ],
-    "support": {
-        "issues": "https://github.com/muesli/huephp/issues"
-    },
     "require": {
-        "php": ">=5.4.0",
-        "educoder/pest": "~1.0"
-    },
-    "bin": [
-        "bin/hue"
-    ],
-    "autoload": {
-        "psr-4": {
-            "Hue\\": "src/"
-        }
+        "guzzlehttp/guzzle": "~6.0"
     }
 }

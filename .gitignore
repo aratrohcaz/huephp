@@ -1,5 +1,5 @@
 .idea/
 atlassian-ide-plugin.xml
 vendor/
-# Normally you shouldn't ignore the composer.lock file, but this is a different case for libraries
-composer.lock
+log/
+tmp/
