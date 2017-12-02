@@ -3,3 +3,5 @@ atlassian-ide-plugin.xml
 vendor/
 log/
 tmp/
+## Ignore Confidential File(s)
+config/database.yml
