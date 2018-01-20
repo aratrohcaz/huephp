@@ -13,7 +13,6 @@
         "guzzlehttp/guzzle": "~6.0",
         "monolog/monolog": "^1.23",
         "symfony/yaml": "^3.4",
-        "doctrine/orm": "^2.5",
         "propel/propel1": "^1.7"
     }
 }
