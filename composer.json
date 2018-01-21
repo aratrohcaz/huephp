@@ -14,5 +14,10 @@
         "monolog/monolog": "^1.23",
         "symfony/yaml": "^3.4",
         "propel/propel1": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helper\\": "src/helper"
+        }
     }
 }
